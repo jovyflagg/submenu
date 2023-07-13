@@ -6,7 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [ 🧭 Submenu - project demo](https://jovyflagg.github.io/submenu)
 
-or scan qr code:
+or scan QR Code:
+
+![1689285087464](image/README/1689285087464.png)
 
 [![1689284919063](image/README/1689284919063.png)](https://www.loom.com/share/625f019df9f447aab6752bbe78fedc37?sid=3b96000a-8ca1-4535-9b34-42a07adfdcf8)
 
